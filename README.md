@@ -21,4 +21,6 @@ Lumin Bootloader.
 
 ![Desktop](https://raw.githubusercontent.com/coolguy565/Lumin-OS/refs/heads/main/Desktop%20Screenshot.png)
 
-Lumin Desktop
+Lumin Desktop.
+
+# End of README
