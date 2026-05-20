@@ -18,3 +18,7 @@ Lumin BIOS.
 ![Bootloader](https://raw.githubusercontent.com/coolguy565/Lumin-OS/refs/heads/main/Bootloader%20Screenshot.png)
 
 Lumin Bootloader.
+
+![Desktop](https://raw.githubusercontent.com/coolguy565/Lumin-OS/refs/heads/main/Desktop%20Screenshot.png)
+
+Lumin Desktop
