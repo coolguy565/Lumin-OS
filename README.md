@@ -12,3 +12,4 @@ I will be releasing a documentation for that shortly.
 
 ## Screenshots
 ![BIOS](https://raw.githubusercontent.com/coolguy565/Lumin-OS/refs/heads/main/BIOS%20Screenshot.png)
+Lumin BIOS.
