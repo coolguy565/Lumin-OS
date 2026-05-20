@@ -11,4 +11,4 @@ You can find Lumin OS Unlocker [here](https://example.com).
 I will be releasing a documentation for that shortly.
 
 ## Screenshots
-![BIOS]
+![BIOS](https://raw.githubusercontent.com/coolguy565/Lumin-OS/refs/heads/main/BIOS%20Screenshot.png)
